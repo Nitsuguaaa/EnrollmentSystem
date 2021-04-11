@@ -14,9 +14,9 @@ A basic enrollment system using java
   - forint.java - this lets you create a new student
 
 - Upcoming features :
-  - [] GUI
-  - [] Admin panel and User panel
-  - [] Login system
+  - [ ] GUI
+  - [ ] Admin panel and User panel
+  - [ ] Login system
 
 > I'm new to programming sorry.
 
