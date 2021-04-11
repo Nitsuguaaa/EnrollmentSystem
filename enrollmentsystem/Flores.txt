@@ -1,4 +1,0 @@
-name:Christina Flores
-age:18
-address:Batangas
-grade:12
