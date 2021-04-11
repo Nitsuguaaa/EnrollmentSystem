@@ -1,0 +1,4 @@
+name:ljt
+age:rgjsl
+address:lug
+grade:ilugh

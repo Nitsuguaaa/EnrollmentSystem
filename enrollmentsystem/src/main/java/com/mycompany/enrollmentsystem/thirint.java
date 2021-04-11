@@ -17,7 +17,7 @@ public class thirint {
             System.out.println("Enter Students name:");
             String file = inp.nextLine();
 
-            File myObj = new File(file + ".txt");
+            File myObj = new File("C:\\Users\\Augustin\\Documents\\NetBeansProjects\\enrollmentsystem\\students\\" + file + ".txt");
 
             if (myObj.createNewFile()) {
                 System.out.println("File created: " + myObj.getName());
@@ -27,7 +27,7 @@ public class thirint {
             }
             
             
-            FileWriter myWriter = new FileWriter(file + ".txt");
+            FileWriter myWriter = new FileWriter("C:\\Users\\Augustin\\Documents\\NetBeansProjects\\enrollmentsystem\\students\\" + file + ".txt");
             
             System.out.println("Enter Students full name:");
             String fname = inp.nextLine();

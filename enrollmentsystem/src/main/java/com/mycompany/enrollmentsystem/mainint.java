@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 
 public class mainint {
 
-    public static void main(String[] args) throws NumberFormatException {
+    public static void main(String[] args) throws IOException {
 
         usermenu usermenu = new usermenu();
         

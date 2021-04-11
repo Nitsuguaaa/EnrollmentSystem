@@ -10,7 +10,7 @@ public class secint {
         
         usermenu usermenu = new usermenu();
 
-        File f = new File("C:\\Users\\Augustin\\Documents\\NetBeansProjects\\enrollmentsystem");
+        File f = new File("C:\\Users\\Augustin\\Documents\\NetBeansProjects\\enrollmentsystem\\students");
 
         FilenameFilter textFilter = new FilenameFilter() {
             public boolean accept(File dir, String name) {
