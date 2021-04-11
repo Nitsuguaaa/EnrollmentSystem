@@ -1,4 +1,0 @@
-name:Janelle Ramos
-age:17
-address:Batangas
-grade:!2
