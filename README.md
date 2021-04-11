@@ -1,6 +1,6 @@
 # A Basic Enrollment System Using Java :gift_heart:
 
-> If you're too lazy to make an enrollment system for your school project then here it is
+> This code is made by a student and not even close to professional builds
 
 - To give you context. This is a simple enrollment system using java.
  I used netbeans IDE to code this. The code is still unfinished and
