@@ -13,12 +13,14 @@ public class usermenu {
         System.out.println("Here are the possible commands you can enter: \n"
                 + "1 = Create a student file \n"
                 + "2 = Search a student \n"
-                + "3 = get all students");
+                + "3 = get all students \n"
+                + "4 = Exit the program");
 
         //Creating random vars
         int First = 1;
         int Second = 2;
         int Third = 3;
+        int Fourth = 4;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your command");
@@ -43,10 +45,13 @@ public class usermenu {
                 System.out.println("Retrieving all listed students");
                 secint three = new secint();
                 three.math();
-
-            } else {
-                System.out.println("Invalid input.");
-            }
+            
+            } else if (ans2 == Fourth) {
+                System.out.println("Thank you for using the enrollment system");
+                System.exit(0);
+            } 
+            
+            
         } catch (NumberFormatException e) {
             System.out.println("Invalid input.");
             usermain();
