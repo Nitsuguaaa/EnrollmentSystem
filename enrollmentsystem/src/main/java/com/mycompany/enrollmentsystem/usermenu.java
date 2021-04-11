@@ -39,7 +39,7 @@ public class usermenu {
             } else if (ans2 == Second) {
                 System.out.println("Enter a students name");
                 forint second = new forint();
-                second.main();
+                second.mainstrt();
 
             } else if (ans2 == Third) {
                 System.out.println("Retrieving all listed students");
