@@ -1,4 +1,4 @@
-A basic enrollment system using java
+# A basic enrollment system using java
 
 > If you're too lazy to make an enrollment system for your school project then here it is
 
