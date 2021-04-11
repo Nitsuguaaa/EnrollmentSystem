@@ -1,4 +1,0 @@
-name:Augustin Christian de la pena
- age:16
- address:Batangas
- grade:11
