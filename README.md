@@ -12,6 +12,7 @@
   - secint.java - By running this code it will list all the students in the directory
   - thirint.java - This searches for a specific student name
   - forint.java - this lets you create a new student
+  - NewGUI - A test gui that has only 1 button that works.
 
 - Upcoming features :
   - [ ] GUI
